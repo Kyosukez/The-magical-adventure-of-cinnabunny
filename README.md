@@ -1,5 +1,4 @@
 # The-magical-adventure-of-cinnabunny
-Updates for my RPG
-
-I will post my updates for my RPG here and report any fixed bugs. 
-Theres also a wiki now so you can read or add what you want!
+一様ここで不定期アプデはしてますが初期とは全然関係無い内容になってます。
+バグとか盛沢山のクソゲーで作ってる人も直してるのか分らないレベルになってます。
+遊ぶためのRTPはVXAce版でダウンロード用のリンクはこちらです：https://tkool.jp/products/rtp.html
